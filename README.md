@@ -79,7 +79,7 @@ We are building a small **Cyber Security learning community** focused on:
 ## 🌐 Connect With Me
 <p align="center">  
   <a href="#"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" height="50"/></a>
-  <a href="#"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="50"/></a>
+  <a href="https://www.linkedin.com/in/banumath-kovinda-a184b4374/"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="50"/></a>
   <a href="#"><img src="https://media.tenor.com/QsaxvK8W_AoAAAAj/araslot-instagram.gif" height="45"/></a>
 </p>
 
