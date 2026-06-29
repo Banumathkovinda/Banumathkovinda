@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/af1d48c2-aeea-43da-83f0-b63687ce4a05" /><h1 align="center">Hi 👋 I'm Banumath Kovinda</h1>
+><h1 align="center">Hi 👋 I'm Banumath Kovinda</h1>
 <h3 align="center">🛡️ Cyber Security Student | SLIIT</h3>
 
 <p align="center">
@@ -39,6 +39,7 @@
   <img src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" width="40" height="40"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRugKVxZtIh1SSbqxVN4jY2cMlGjRyeaxnYtA&s" width="40" height="40"/>
+   <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" width="40" height="40"/>
 </p>
 
 ---
