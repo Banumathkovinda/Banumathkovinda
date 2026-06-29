@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Banumath Kovinda</h1>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/af1d48c2-aeea-43da-83f0-b63687ce4a05" /><h1 align="center">Hi 👋 I'm Banumath Kovinda</h1>
 <h3 align="center">🛡️ Cyber Security Student | SLIIT</h3>
 
 <p align="center">
@@ -31,7 +31,7 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png?_=20230509085415" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
